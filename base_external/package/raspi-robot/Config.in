@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_RASPI_ROBOT
+	bool "raspi-robot"
+	help
+	  Includes the controlling socket server application 
