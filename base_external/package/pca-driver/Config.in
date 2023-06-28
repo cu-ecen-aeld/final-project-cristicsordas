@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_PCA_DRIVER
+	bool "pca-driver"
+	help
+	  Includes the pca 9685 driver
