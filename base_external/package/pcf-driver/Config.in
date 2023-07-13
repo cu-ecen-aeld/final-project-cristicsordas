@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_PCF_DRIVER
+	bool "pcf-driver"
+	help
+	  Includes the pcf 8591 driver

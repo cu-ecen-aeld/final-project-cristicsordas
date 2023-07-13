@@ -1,2 +1,4 @@
 source "$BR2_EXTERNAL_assignment_base_PATH/package/raspi-robot/Config.in"
 source "$BR2_EXTERNAL_assignment_base_PATH/package/pca-driver/Config.in"
+source "$BR2_EXTERNAL_assignment_base_PATH/package/pcf-driver/Config.in"
+
