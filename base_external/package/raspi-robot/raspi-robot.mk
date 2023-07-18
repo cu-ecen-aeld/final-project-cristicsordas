@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-RASPI_ROBOT_VERSION = 5cd524f5866fe26492aacfa9bc2f4c40531dd069
+RASPI_ROBOT_VERSION = cb440e634037d5343cee222d0c7df437e88744bf
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:

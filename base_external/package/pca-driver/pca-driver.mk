@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-PCA_DRIVER_VERSION = 5cd524f5866fe26492aacfa9bc2f4c40531dd069
+PCA_DRIVER_VERSION = cb440e634037d5343cee222d0c7df437e88744bf
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
